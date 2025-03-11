@@ -2,7 +2,7 @@
 
 **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by <a href="https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20fiscal%20year.pdf">Fiscal Year</a>
+  **1.** Create Profit and Loss (P&L) reports by <a href="https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20fiscal%20year.pdf">Fiscal Year</a> And
    <a href="https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20month.pdf">Months</a> 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20market.pdf)_
