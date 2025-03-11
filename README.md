@@ -2,11 +2,12 @@
 
 **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[Months]()_ 
+    **1.** Create Profit and Loss (P&L) reports by <a href="https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20fiscal%20year.pdf">Fiscal Year</a>
+   <a href="https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20month.pdf">Months</a> 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20market.pdf)_
 
-   **3.** Create Gross Margin Percentage Report by _[Quarters]()_
+   **3.** Create Gross Margin Percentage Report by _[Quarters](https://github.com/jibi22/Finance-Report-Analysis-Excel/blob/main/Gross%20Margin%25%20by%20Quarter.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
